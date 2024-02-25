@@ -4,3 +4,4 @@ If you are interested in this project, you are welcome to join us.
 
 ### data collection
 - Psychological counseling interview transcripts
+  - https://github.com/chatopera/efaqa-corpus-zh
